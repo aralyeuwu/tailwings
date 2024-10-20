@@ -1,6 +1,7 @@
 name: Tailwings
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
