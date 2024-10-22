@@ -13,7 +13,7 @@ kill_timeout = '5s'
 
 [env]
   TS_EXTRA_ARGS = '--advertise-tags=tag:tailwings --advertise-exit-node'
-  TS_HOSTNAME = 'aravpn1.fly.dev'
+  TS_HOSTNAME = 'ison-drum.ts.net'
   # TS_HOSTNAME = 'fly-$FLY_REGION'
   TS_TAILSCALED_EXTRA_ARGS = '--port 41641 --state=mem:'
   PATH = '/usr/local/bin/'
